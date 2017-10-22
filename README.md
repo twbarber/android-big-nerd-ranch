@@ -1,2 +1,1 @@
-# android-big-nerd-ranch
-Big Nerd Ranch Android Projectrs
+# BNR Android GeoQuiz
